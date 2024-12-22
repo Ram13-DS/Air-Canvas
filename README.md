@@ -1,4 +1,7 @@
 # Air-Canvas
+
+Air Canvas is a revolutionary technology that harnesses the power of computer vision to transform the way we interact with digital content and the physical world. This innovative system allows users to create, manipulate, and interact with virtual drawings and objects in real-time, all through the simple movement of their hands or other input devices. By merging computer vision, augmented reality, and gesture recognition technologies, Air Canvas opens up a world of creative possibilities and practical applications.
+
 Packages that are required for this project are:
 
 1.Opencv
